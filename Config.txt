@@ -1,0 +1,7 @@
+{
+"Documentspath":"Documents\\",
+"TemplatePath":"Template\\",
+"MailTo":"Lomharshan.Sharma@calibehr.com;",
+"CC":"Mohit.yadav@calibehr.com;milind.pawar@calibehr.com;abhishek.sapalya@calibehr.com;",
+"Subject":"Verified Data"
+}
